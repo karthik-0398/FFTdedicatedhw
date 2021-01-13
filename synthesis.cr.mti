@@ -1,0 +1,15 @@
+C:/Users/ks6n1/OneDrive/Documents/ModelSim/dsynthv2/synthesis.sv {1 {vlog -work work -sv -stats=none C:/Users/ks6n1/OneDrive/Documents/ModelSim/dsynthv2/synthesis.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module synthesis
+
+Top level modules:
+	synthesis
+
+} {} {}} C:/Users/ks6n1/OneDrive/Documents/ModelSim/dsynthv2/synthesistest.sv {1 {vlog -work work -sv -stats=none C:/Users/ks6n1/OneDrive/Documents/ModelSim/dsynthv2/synthesistest.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module synthesistest
+
+Top level modules:
+	synthesistest
+
+} {} {}}
