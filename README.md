@@ -1,3 +1,2 @@
 # FFTdedicatedhw
-FFT butteryfly dedicated hardware
-<embed src="FFTdedicatedhw/system_synthesis.pdf" type="application/pdf">
+![FFT butteryfly dedicated hardware](https://github.com/ks6n19/FFTdedicatedhw/blob/master/system_synthesis.pdf)
